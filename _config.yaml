@@ -1,4 +1,5 @@
 title: "practicing"
 description: "This site has a theme!"
 email: "schmidag@uwm.edu"
-remote_theme: just-the-docs/just-the-docs
+remote_theme: poole/poole
+
